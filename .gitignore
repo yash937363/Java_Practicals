@@ -1,0 +1,3 @@
+# Ignore .class files recursively
+**/*.class
+**/desktop.ini
